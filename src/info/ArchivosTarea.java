@@ -7,7 +7,7 @@ import javax.swing.DefaultListModel;
 
 /**
  * Clase que gestiona el almacenamiento y la carga de tareas desde un archivo de texto.
- * Utiliza un modelo de lista para almacenar las tareas y un archivo .txt para guardarlas.
+ * Utiliza un modelo de lista para almacenar las tareas y un archivo .txt para guardarlas. xd
  */
 public class ArchivosTarea {
     
